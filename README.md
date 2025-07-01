@@ -1,3 +1,4 @@
+Advanced File Organizer Bot
 Description
 An intelligent file organization bot with a GUI that monitors a selected folder and organizes files in real-time
 based on extension, type, or size. Ideal for automating cleanup in Downloads or Desktop folders.
@@ -11,6 +12,17 @@ Python 3.x
 Tkinter
 Watchdog
 OS / shutil
+•
+•
+•
+•
+
+•
+•
+•
+•
+
+4
 
 Getting Started
 Create and activate a virtual environment
