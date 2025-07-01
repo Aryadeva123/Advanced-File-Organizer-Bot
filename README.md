@@ -12,17 +12,7 @@ Python 3.x
 Tkinter
 Watchdog
 OS / shutil
-•
-•
-•
-•
 
-•
-•
-•
-•
-
-4
 
 Getting Started
 Create and activate a virtual environment
